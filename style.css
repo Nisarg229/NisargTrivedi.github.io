@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(185, 159, 159);
+    text-align: center;
+}
+
+.title-image{
+    width: 21rem;
+    height: 30rem;
+}
+
+.about-image{
+    border-radius: 100%;
+}
+
+.card{
+    margin: 1rem;
+    margin-right: 9rem;
+    text-align: center;
+   
+}
+
+.hen{
+    text-align: center;
+    margin-right: 1rem;
+
+}
+
+
+
+
